@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- ![okokoe](https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif) -->
-<img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif" width="1140" />
+<img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif" width="1000" />
 <!--
 **KvnPrdtyaa/KvnPrdtyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
