@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
 </p>
-<h1 class="italic">A single track trail outside of Albuquerque, New Mexico.</h1>
+<i>A single track trail outside of Albuquerque, New Mexico.<i>
 
 <!--
 **KvnPrdtyaa/KvnPrdtyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
