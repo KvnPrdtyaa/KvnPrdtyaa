@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
-  <p align="center">*A single track trail outside of Albuquerque, New Mexico.*</p>
+  *A single track trail outside of Albuquerque, New Mexico.*
 </p>
 *A single track trail outside of Albuquerque, New Mexico.*
 <!--
