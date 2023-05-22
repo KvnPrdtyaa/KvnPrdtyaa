@@ -2,10 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
-  <p align="center>*A single track trail outside of Albuquerque, New Mexico.*</p?
+<p align="center>*Kimi No Nawa.*</p>
 </p>
-
-
 
 <!--
 **KvnPrdtyaa/KvnPrdtyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
