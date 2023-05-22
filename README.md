@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>  
+  <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
+  <p>*A single track trail outside of Albuquerque, New Mexico.*</p>
 </p>
 *A single track trail outside of Albuquerque, New Mexico.*
 <!--
