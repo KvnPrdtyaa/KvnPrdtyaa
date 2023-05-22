@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif" width="900" height="500"/>
+  <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif" width="300" height="500"/>
 </p>
 <!--
 **KvnPrdtyaa/KvnPrdtyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
