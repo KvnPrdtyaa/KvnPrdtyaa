@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
-  <h3>*A single track trail outside of Albuquerque, New Mexico.*</h3?
-</p>
+  <p alig>*A single track trail outside of Albuquerque, New Mexico.*</h3?
+</p> -->
+
+![Albuquerque, New Mexico](https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif)
+*A single track trail outside of Albuquerque, New Mexico.*
+
+
+
 <!--
 **KvnPrdtyaa/KvnPrdtyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
