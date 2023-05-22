@@ -9,10 +9,9 @@
 
 <img align="right" width="400" src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/rightimg.gif">   
 
-## 💫 This is what are u looking for:
+## 💫 About Me:
 - 🔭 I’m currently working for **myself**
 - 🌱 I’m learning **everyday, everytime, everything**
-- 💬 Dont ask me im introvert
 - 📫 How to reach me: **why u want to reach me?**
 - ⚡ Fun fact **i love my mom**
 
