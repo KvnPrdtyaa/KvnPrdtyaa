@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align=center style="text-align:center>
+<p align="center" style="text-align:center>
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
   <center><i>A single track trail outside of Albuquerque, New Mexico.<i</center>
 </p>
