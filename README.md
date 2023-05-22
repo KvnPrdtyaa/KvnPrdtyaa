@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
-  <p alig>*A single track trail outside of Albuquerque, New Mexico.*</h3?
-</p> -->
-
-![Albuquerque, New Mexico](https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif)
-*A single track trail outside of Albuquerque, New Mexico.*
+  <p align="center>*A single track trail outside of Albuquerque, New Mexico.*</p?
+</p>
 
 
 
